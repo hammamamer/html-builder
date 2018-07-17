@@ -1,0 +1,76 @@
+body
+{
+	margin-top: 1%;
+}
+#container
+{
+	display: flex;
+	justify-content: center;
+
+    margin-left: 5px;
+    margin-right: 5px;
+	
+
+	
+}
+#translate
+{
+	
+	width: 40%;
+	height: 550px;
+	
+	overflow: auto;
+	border:solid black;
+}
+#buttons
+{
+	height: 550px;
+	width: 20%;
+    text-align: center;
+    overflow: auto;
+    border:solid black;
+
+}
+#area
+{
+	height: 550px;
+	width: 40%;
+	border:solid black;
+	overflow: auto;
+}
+p
+{
+	margin-left: 5px;
+}
+h4
+{
+	cursor: pointer;
+}
+h4:hover
+{
+	border:solid green;
+}
+
+h2
+{
+	
+	background-color: grey;
+	margin-top: 0;
+
+}
+h3
+{
+	background-color: #A5D6A7;
+	margin-top: -10px;
+}
+
+
+#translatecontainer
+{
+	margin-left: 5px;
+}
+.formscontainer
+{
+	border:solid green 0.5px;
+	display: none
+}
